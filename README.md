@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/theCrab/Bookshelf/badge.svg?branch=master)](https://coveralls.io/github/theCrab/Bookshelf?branch=master)
+
 # Hanami::Kyoka
 
 This is a Permission/Authorization/Kyoka module for Hanami. It expects that a an authenticated user `object` and an object `subject` to be passed. It has a dependency on the awesome `gem 'six'` by [Dmitriy Zaporozhets](https://github.com/randx/six). We have some nice generators and you should be up and running quick.
