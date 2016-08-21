@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/theCrab/Bookshelf/badge.svg?branch=master)](https://coveralls.io/github/theCrab/Bookshelf?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/theCrab/hanami-kyoka/badge.svg?branch=master)](https://coveralls.io/github/theCrab/hanami-kyoka?branch=master)
 
 # Hanami::Kyoka
 
